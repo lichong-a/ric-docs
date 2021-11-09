@@ -2,4 +2,4 @@
 * [&#x2615; JAVA](java)
 * [&#x1F964; Golang](golang)
 * [&#x1f433; Docker](docker)
-* [&#x1F9D9; 关于我](aboutme)
+* [&#x1F9D9; 关于我](https://lichong.work/s/about)
