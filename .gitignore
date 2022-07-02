@@ -262,3 +262,5 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+*.imi
+.nojekyll
